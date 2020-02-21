@@ -58,7 +58,7 @@ onSubmit = (e) => {
     </hgroup>
     <form onSubmit = {this.onSubmit}>
       <div className="group">
-      <label htmlFor = "email" >Username</label>
+      <label htmlFor = "email" >Usernamee</label>
         <input type="email" className="" name="email" value = {this.state.email} onChange = {this.onChange} />
         <span className="highlight" />
         <span className="bar" />
