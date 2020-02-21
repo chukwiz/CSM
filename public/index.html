@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=1024">
+    <meta name="theme-color" content="#000000" />
+    <meta
+      name="description"
+      content="Web site created using create-react-app"
+    />
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <!-- <link href="static/redesign/css/styledb6b.css?v=909ff0a513efa84b82820210f03a6fab" rel="stylesheet" > -->
+
+    <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap" /> -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
+    <!--
+      manifest.json provides metadata used when your web app is installed on a
+      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
+    -->
+    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
+    <!-- home page links -->
+    
+    <!-- <link rel="apple-touch-icon" sizes="57x57" href="static/images/favicons/apple-icon-57x57dc31.png?v=0eeee332057be2b7ec03037d47db5c18">
+<link rel="apple-touch-icon" sizes="60x60" href="static/images/favicons/apple-icon-60x608ff3.png?v=bfafdfc4b9d231f83ec9e7cf631713b7">
+<link rel="apple-touch-icon" sizes="72x72" href="static/images/favicons/apple-icon-72x723e47.png?v=ae99c1bd84a26c31cef7726b3a1ebc61">
+<link rel="apple-touch-icon" sizes="76x76" href="static/images/favicons/apple-icon-76x7695bb.png?v=aa8f2bb573102a74c01cc08f1a374ddf">
+<link rel="apple-touch-icon" sizes="114x114" href="static/images/favicons/apple-icon-114x1149c9f.png?v=0e6542b8c080837ccc7958b683982355">
+<link rel="apple-touch-icon" sizes="120x120" href="static/images/favicons/apple-icon-120x12074d3.png?v=a78315aeaad8cd78dbdb2130b08a4e89">
+<link rel="apple-touch-icon" sizes="144x144" href="static/images/favicons/apple-icon-144x1446853.png?v=fae072bfb75d89af3407632899c49b95">
+<link rel="apple-touch-icon" sizes="152x152" href="static/images/favicons/apple-icon-152x1520e6b.png?v=fbc5e3a577e5c27142a182a38fecfb15">
+<link rel="apple-touch-icon" sizes="180x180" href="static/images/favicons/apple-icon-180x180ed71.png?v=cc3187ab0549da7017fc12e5e9278ddc">
+<link rel="icon" type="image/png" sizes="192x192" href="static/images/favicons/android-icon-192x192e2ab.png?v=47fa4621d162f7cef498a60de1a90498">
+<link rel="icon" type="image/png" sizes="32x32" href="static/images/favicons/favicon-32x32a488.png?v=091081a91dd921f756bfcc1b1889af65">
+<link rel="icon" type="image/png" sizes="96x96" href="static/images/favicons/favicon-96x96f3d7.png?v=12883bfc4617d015d5a554c6fb3a928b">
+<link rel="icon" type="image/png" sizes="16x16" href="static/images/favicons/favicon-16x169c6f.png?v=76eab01f0697af4e25dd81fc968a0c7e">
+<link rel="manifest" href="static/images/favicons/manifest57ae.json?v=4046d1f5df52fed11319b3aacd71d880">
+<meta name="msapplication-TileImage" content="static/images/favicons/ms-icon-144x1446853.png?v=fae072bfb75d89af3407632899c49b95">
+<meta name="okpay-verification" content="e722dbc5-f372-4f03-a40d-8e20fa2713b0" /> -->
+<!-- Mobile Meta -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!-- Favicon -->
+
+<!-- <link rel="shortcut icon" href="static/redesign/images/favicon-16x169c6f.png?v=76eab01f0697af4e25dd81fc968a0c7e"> -->
+<!-- Web Fonts -->
+<link href='https://fonts.googleapis.com/css?family=Roboto:400,100,300,300italic,100italic,400italic,500italic,500,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+<!-- <link href='https://fonts.googleapis.com/css?family=Raleway:400,300,300italic,400italic,500,500italic,700,700italic' rel='stylesheet' type='text/css'> -->
+<!-- Bootstrap core CSS -->
+
+<!-- Font Awesome CSS -->
+
+<!-- Fontello CSS -->
+<link href="static/redesign/fonts/fontello/css/fontelloce34.css?v=067b86b360ec413aba7132f945a0941e" rel="stylesheet">
+<!-- Plugins -->
+<link href="static/redesign/plugins/magnific-popup/magnific-popup4ea5.css?v=30b593b71d7672658f89bfea0ab360c9" rel="stylesheet">
+<link href="static/redesign/plugins/rs-plugin/css/settings3b66.css?v=f03e1133cf495b63bfbe3e8129faf864" rel="stylesheet">
+<link href="static/redesign/css/animationsbfdd.css?v=8e39081735d3831c9ca7a959676b20a3" rel="stylesheet">
+<link href="static/redesign/plugins/owl-carousel/owl.carouselcdb5.css?v=0371b5a2d50e985b09b7d337edc0dc9f" rel="stylesheet">
+<link href="static/redesign/plugins/owl-carousel/owl.transitions5e4b.css?v=b1bdaeac4065bf67a7d7a06213192964" rel="stylesheet">
+<link href="static/redesign/plugins/hover/hover-minb599.css?v=a7e15908c3776c9001054c66f9790e0c" rel="stylesheet">
+<link href="static/redesign/plugins/morphext/morphext3b58.css?v=c1d2d7faa5df58d742334c8f90818cb0" rel="stylesheet">
+<link href="../static/redesign/css/styledb6b.css?v=909ff0a513efa84b82820210f03a6fab" rel="stylesheet" >
+<link href="static/redesign/css/skins/blueddc0.css?v=68157a8781336b0f229e9c6b1fed4b43" rel="stylesheet">
+<link href="static/cookieCuttr/cookiecuttr_min1883.css?v=c686b09c9eb9c889ed0ceb32aabd5eed" rel="stylesheet">
+<!-- <link rel='stylesheet' href="/static/css/extras.css?v=8705e751a1236b38c22081cf12e2b851" type='text/css'/> added 22jun -->
+<!-- <link rel='stylesheet' href="/static/css/animate.css?v=f5165bb5a929924c96b5367c90cafadc" type='text/css'/> added 22jun -->
+<!-- <link rel='stylesheet' href="/static/css/custom.css?v=fdbe601551ce3b9f53b053ad8ef36f6a" type='text/css'/> added 22jun -->
+<link rel="stylesheet" href="../cdn.datatables.net/1.10.7/css/jquery.dataTables.min.css">
+<!-- <link rel="stylesheet" href="../cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.css"> -->
+<!-- <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous"> -->
+<!-- <link href="static/redesign/bootstrap/css/bootstrap8cb3.css?v=5ba37ad9163643c32251366754f08b2a" rel="stylesheet"> -->
+<link href="static/redesign/bootstrap-4.4.1-dist/css/bootstrap.css" rel="stylesheet">
+
+
+
+<style>
+.cc_container {
+opacity: 0.7 !important;
+}
+
+@media screen and (max-width: 600px) {
+  .owl-clients-v1{
+    display:none;
+  }
+}
+</style>
+
+<!-- Custom css -->
+<link href="static/redesign/css/custom3b97.css?v=67f08fc74ff6fd0ff681e747b3060513" rel="stylesheet">
+<link href="static/redesign/fonts/font-awesome/css/font-awesomea7e4.css?v=5343ee1a287a65ff20961476fd8a6188" rel="stylesheet">
+<script type="text/javascript" src="static/redesign/plugins/jquery.mineec8.js?v=bdc2b7efb1faf219d65edfe253a103e9"></script>
+<script type="text/javascript" src="../c.mql5.com/js/widgets/calendar/widget1679.js?6"></script>
+<script async charset="utf-8" src="https://widgets.fxempire.com/widget.js" ></script>
+
+
+<script>
+  (function(b,i,t,C,O,I,N) {
+    window.addEventListener('load',function() {
+      if(b.getElementById(C))return;
+      I=b.createElement(i),N=b.getElementsByTagName(i)[0];
+      I.src=t;I.id=C;N.parentNode.insertBefore(I, N);
+    },false)
+  })(document,'script','https://widgets.bitcoin.com/widget.js','btcwdgt');
+</script>
+  <script type="text/javascript" src="https://widget.coinlore.com/widgets/coinlore-list-widget.js"></script>
+<script type="text/javascript">
+new economicCalendar({ width: "100%", height: "1000px", mode: 2 });
+</script>
+
+    
+    <!-- end of home page links -->
+    <!--
+      Notice the use of %PUBLIC_URL% in the tags above.
+      It will be replaced with the URL of the `public` folder during the build.
+      Only files inside the `public` folder can be referenced from the HTML.
+
+      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
+      work correctly both with client-side routing and a non-root public URL.
+      Learn how to configure a non-root public URL by running `npm run build`.
+    -->
+    <title>React App</title>
+  </head>
+  <body>
+    <!-- <div style="height:62px; background-color: #FFFFFF; overflow:hidden; box-sizing: border-box; border: 0px solid #56667F; border-radius: 0px; text-align: right; line-height:14px; block-size:62px; font-size: 12px; font-feature-settings: normal; text-size-adjust: 100%; padding:1px;padding: 0px; margin: 0px; width: 100%;"><div style="height:40px; padding:0px; margin:0px; width: 100%;"><iframe src="https://widget.coinlib.io/widget?type=horizontal_v2&theme=light&pref_coin_id=1505&invert_hover=" width="100%" height="36px" scrolling="auto" marginwidth="0" marginheight="0" frameborder="0" border="0" style="border:0;margin:0;padding:0;"></iframe></div></div> -->
+    
+    <noscript>You need to enable JavaScript to run this app.</noscript>    
+    
+    <div id="root">
+
+    </div>
+    <!--
+      This HTML file is a template.
+      If you open it directly in the browser, you will see an empty page.
+
+      You can add webfonts, meta tags, or analytics to this file.
+      The build step will place the bundled scripts into the <body> tag.
+
+      To begin the development, run `npm start` or `yarn start`.
+      To create a production bundle, use `npm run build` or `yarn build`.
+    -->
+    <!-- homepage scripts -->
+
+    <!-- <script type="text/javascript" src="static/redesign/bootstrap/js/bootstrap.mincdff.js?v=c5b5b2fa19bd66ff23211d9f844e0131"></script> -->
+<!-- Modernizr javascript -->
+<script type="text/javascript" src="static/redesign/plugins/modernizr3986.js?v=756b6b5902b715b7df283b01f78f4008"></script>
+<!-- jQuery Revolution Slider -->
+<script type="text/javascript" src="static/redesign/plugins/rs-plugin/js/jquery.themepunch.tools.min53ce.js?v=ff2be50fbaaf60e26cd022218f639822"></script>
+<script type="text/javascript" src="static/redesign/plugins/rs-plugin/js/jquery.themepunch.revolution.min1754.js?v=0801758f13b2e6ddcf5cb4d099da8c21"></script>
+<!-- Isotope javascript -->
+<script type="text/javascript" src="static/redesign/plugins/isotope/isotope.pkgd.min047b.js?v=993af08be0b86ea8d282f6300236c611"></script>
+<!-- Magnific Popup javascript -->
+<script type="text/javascript" src="static/redesign/plugins/magnific-popup/jquery.magnific-popup.mince32.js?v=ba6cf724c8bb1cf5b084e79ff230626e"></script>
+<!-- Appear javascript -->
+<script type="text/javascript" src="static/redesign/plugins/waypoints/jquery.waypoints.min10d2.js?v=43b1aa1ea2d73e79e9d45980c7920446"></script>
+<!-- Count To javascript -->
+<script type="text/javascript" src="static/redesign/plugins/jquery.countToa183.js?v=97118c69ba0c079fd60bd8fe23e9fde1"></script>
+<!-- Parallax javascript -->
+<script src="static/redesign/plugins/jquery.parallax-1.1.3cf8d.js?v=e5ee2a0156a4dc23af94081f079b15d1"></script>
+<!-- Contact form -->
+<script src="static/redesign/plugins/jquery.validate6106.js?v=9ec4651200b4d8f1fa4e8da9dae1b806"></script>
+<!-- Morphext -->
+<script type="text/javascript" src="static/redesign/plugins/morphext/morphext.mine282.js?v=6db5449e756b858fc376ea662aab817a"></script>
+<!-- Background Video -->
+<script src="static/redesign/plugins/vide/jquery.videb811.js?v=27f164ac902cd2b69ca397919535d271"></script>
+<!-- Owl carousel javascript -->
+<script type="text/javascript" src="static/redesign/plugins/owl-carousel/owl.carouselfbab.js?v=a5f96c62d75be144282ef6cc429a6259"></script>
+<!-- SmoothScroll javascript -->
+<script type="text/javascript" src="static/redesign/plugins/jquery.browserab81.js?v=9d7375672de119b436fbb7746f1f16a5"></script>
+<script type="text/javascript" src="static/redesign/plugins/SmoothScroll4d0c.js?v=ebf33ba6ba067abeb4438d8957047b62"></script>
+<!-- Initialization of Plugins -->
+<script type="text/javascript" src="static/redesign/js/templateafb8.js?v=06a5dbdfcefd15f3f2146053ba819203"></script>
+<script type="text/javascript" src="../cdn.datatables.net/1.10.7/js/jquery.dataTables.min.js"></script>
+<!-- <script type="text/javascript" src="../cdn.datatables.net/plug-ins/1.10.7/integration/bootstrap/3/dataTables.bootstrap.js"></script> -->
+<!-- Custom Scripts -->
+<script type="text/javascript" src="static/redesign/js/custom41da.js?v=527bfad43ba7af85799934a12f558a7a"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<!-- <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script> -->
+<script type="text/javascript" src="static/redesign/bootstrap-4.4.1-dist/js/bootstrap.min.js"></script>
+<!--  -->
+
+<!--  -->
+<script>
+$(".owl-clients-v1").owlCarousel({
+items : 9,
+autoPlay : 5000,
+itemsDesktop : [1000,9],
+itemsDesktopSmall : [900,4],
+itemsTablet: [600,3],
+itemsMobile : [300,2]
+});
+</script>
+<style>
+.owl-pagination, .owl-pagination {
+top: 50px !important;
+}
+</style>
+
+    <!-- end of homepage scripts -->
+  </body>
+</html>
+

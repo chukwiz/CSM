@@ -1,0 +1,39 @@
+.root{
+    flex-grow: 1;
+    margin-bottom:50px;
+  }
+  .paper{
+    text-align: center;
+    /* padding:10px; */
+  }
+
+  .header{
+      border-bottom: 1px solid #e0e0e0;
+      padding:10px;
+  }
+
+  .content{
+    padding:16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+  }
+  .selectEmpty{
+    margin-top: 16px;
+  }
+
+  .formControl{
+    margin: 18px;
+    width: 200px;
+  }
+
+  .footer{
+    text-align: center;
+    margin-bottom: 25px;
+    padding: 5px;
+}
+
+  .root{
+    flex-grow: 1;
+    max-width: 500
+  }

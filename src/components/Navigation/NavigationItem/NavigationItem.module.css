@@ -1,0 +1,17 @@
+
+
+.NavigationItem a{
+    text-decoration: none;
+    width: 100%;
+    box-sizing: border-box;
+    display: block;
+    /* color:#dfdfdf; */
+}
+
+.NavigationItem a:hover,
+.NavigationItem a:active,
+.NavigationItem a.active{
+    color:#1c7c31;
+    background-color: #e2e2e2;
+
+}

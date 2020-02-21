@@ -1,0 +1,30 @@
+[0116/071217.042:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[0206/015256.344:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0208/025421.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0208/025422.362:ERROR:exception_snapshot_win.cc(98)] thread ID 5796 not found in process
+[0208/025421.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0208/025422.363:ERROR:exception_snapshot_win.cc(98)] thread ID 7616 not found in process
+[0208/025421.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0208/025421.894:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0208/025422.426:ERROR:exception_snapshot_win.cc(98)] thread ID 2184 not found in process
+[0208/025422.426:ERROR:exception_snapshot_win.cc(98)] thread ID 2872 not found in process
+[0208/025422.506:ERROR:scoped_process_suspend.cc(40)] NtResumeProcess: An attempt was made to access an exiting process. (0xc000010a)
+[0210/003330.450:ERROR:file_io.cc(134)] WriteFile: The pipe is being closed. (0xE8)
+[0210/020013.764:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020013.570:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020014.109:ERROR:exception_snapshot_win.cc(98)] thread ID 8388 not found in process
+[0210/020014.109:ERROR:exception_snapshot_win.cc(98)] thread ID 6140 not found in process
+[0210/020013.919:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020014.109:ERROR:exception_snapshot_win.cc(98)] thread ID 7376 not found in process
+[0210/020013.718:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020014.109:ERROR:exception_snapshot_win.cc(98)] thread ID 7500 not found in process
+[0210/020013.569:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020014.110:ERROR:exception_snapshot_win.cc(98)] thread ID 4080 not found in process
+[0210/020013.816:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020013.569:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0210/020014.110:ERROR:exception_snapshot_win.cc(98)] thread ID 5664 not found in process
+[0210/020014.110:ERROR:exception_snapshot_win.cc(98)] thread ID 8928 not found in process
+[0212/013824.550:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0214/055015.786:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[0214/155740.767:ERROR:process_reader_win.cc(123)] NtOpenThread: {Access Denied} A process has requested access to an object, but has not been granted those access rights. (0xc0000022)
+[0214/155741.605:ERROR:exception_snapshot_win.cc(98)] thread ID 728 not found in process

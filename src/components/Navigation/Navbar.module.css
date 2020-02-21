@@ -1,0 +1,28 @@
+.Appbar {
+    background-color: transparent;
+    box-shadow: none;
+    border-bottom: 0;
+    margin-bottom: 0;
+    position: absolute;
+    width: calc(100% - 270px);
+    padding-top: 10px;
+    z-index: 1029;
+    color: #cecece;
+    border: 0;
+    border-radius: 3px;
+    padding: 10px 0;
+    transition: all 150ms ease 0s;
+    min-height: 50px;
+    display: block;
+    color:#6AB187;
+  }
+
+  .Container{
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto
+  }
+  .Fuck{
+    background-color: transparent;
+  }

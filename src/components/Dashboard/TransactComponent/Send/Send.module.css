@@ -1,0 +1,38 @@
+.root1{
+    width:50%;
+    display: flex;
+  }
+
+.Title{
+    color: #474747;
+    padding:2px;
+    margin-bottom:30px;
+    text-align: center;
+    border-bottom: 1px solid #c4c4c4;
+}
+
+h3{
+    font-weight: 400;
+}
+
+.content{
+    padding:16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    color: #711fdb;
+  }
+  .selectEmpty{
+    margin-top: 16px;
+  }
+
+  .formControl{
+    margin: 8px;
+    width: 200px;
+  }
+
+  .footer{
+      text-align: center;
+      margin-bottom: 25px;
+      padding: 20px;
+  }

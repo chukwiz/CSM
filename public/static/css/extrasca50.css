@@ -1,0 +1,1467 @@
+@charset "utf-8";
+/* CSS Document */
+.bg_f5f5f5 {background-color: #f5f5f5;}
+.bg_slide_photo {background-image:url(../images/bg-photo.png); background-position: center bottom; background-repeat: no-repeat;  padding-top: 10px; padding-bottom: 50px; margin-top: 50px;}
+.heading-landings {font-size:36px; line-height:40px !important;}
+.heading-landings-sub {font-size:24px;  margin-bottom:0px !important; margin-top:0px !important;  line-height:30px !important}
+.btn-landing-settings {width:45%; font-size:16px; height:50px; margin-right:20px; line-height:30px;}
+.landing-heading {padding-top:20px;}
+.btn-red-pamm {background-color: #dd474a; color: #fff;}
+.col_8ac43f {color: #8ac43f;}
+
+/****** Demo 2 *******/
+.marginHandLeft {margin-top: 25px}
+.marginHand {margin-top: 85px}
+.heading-landings-demo-2 {font-size:30px; line-height:30px;}
+.bg_demo2 {background-image:url(../images/bglearn.jpg); background-position: center bottom; background-repeat: no-repeat; height: 480px;}
+.lmfx-awards-heading {font-size: 30px;}
+.details-demo-2 {margin-top: 20px;}
+
+/******** Traders Awards  -traders-awards.html -************/
+.bg_traders-awards {background-image:url(../images/header-traders-awards.jpg); background-position: center bottom; background-repeat: no-repeat; height: 520px; background-color:#1d1d1d;}
+.bg-trophy {background-image:url(../images/trophy.png); background-position:center; background-repeat:no-repeat; height:400px; margin-top:50px; text-align:center; padding-top:70px;}
+.heading-subtitle-trader-awards {font-size:24px; line-height:24px !important;}
+
+/******** Traders Awards-2  -traders-awards-2.html -************/
+.bg_cacaca {background-color:#cacaca; background-image:url(../images/bgpamm.jpg); background-position:center; height:650px; background-repeat:no-repeat;}
+.pamm-heading-landing {font-size:32px; color:#fff; line-height:32px; margin-top:30px;}
+.btn-landing-pamm {width:100%; font-size:19px; height:50px; margin-right:20px;}
+.borderPammSlide {border-left:0px solid #e5e5e5;}
+.pammSlide p {font-size:18px; margin-top: 15px; color: #fff;}
+.pammSlide {padding-left:20px; padding-right:20px; margin-top: 35px;}
+.trader-awards-lmfx-pic {margin-top: 30px;}
+.btn-trader-awards-2 {width:45%; font-size:16px; height:50px; margin-right:20px; line-height:30px;}
+
+/***** Phone Landing Page 01 ***/
+.bg-phone-landing-page-01 {background-image:url(../images/phone-landing-01/bg-new.jpg); background-repeat:no-repeat; background-attachment:fixed;  background-size: cover;}
+.l01-phone-title {font-size:60px; color:#fff;}
+.l01-phone-benefits {font-size:40px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:46px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:32px; color:#fff; margin-top:35px;}
+.l01-phone-openAccount-para {font-size:25px; color:#fff; margin-top:15px; margin-bottom:10px;}
+.l01-phone-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:16px;  color:#4d4d4d;}
+.l01-phone-form-positioning {padding-left:15px; padding-right:15px; padding-bottom:35px; padding-top:80px; }
+.l01-phone-title-position {margin-top:80px;}
+.l01-phone-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-phone-listFeaturesLanding{margin-top:35px;}
+
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:60px; color:#fff;}
+.l01-benefits {font-size:40px; color:#2f2f30;}
+.l01-subtitle { font-size:43px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:26px; color:#fff; margin-top:35px;} 
+.l01-openAccount-para {font-size:16px; color:#fff; margin-top:15px; margin-bottom:10px;}
+.l01-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:16px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed;  background-size: cover;}
+.l01-form-positioning {padding-left:15px; padding-right:15px; padding-bottom:35px; }
+.l01-title-position {margin-top:80px;}
+.l01-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:35px;}
+
+
+/*********************** Landing Page 02  - landing-page-02.html ******************************************/
+.bg-landing-page-02 {/*background-image:url(../images/landing02/bg-02.png); background-repeat:no-repeat; background-size:cover; background-position:-30px center;*/}
+.l02-title {font-size:48px; color:#2c2b33;}
+.l02-benefits {font-size:32px; color:#fff;}
+.l02-slogan {font-size:20px; color:#fff;}
+.l02-subtitle { font-size:32px; color:#2c2b33;}
+.l02-body {font-size:15px; color:#fff;}
+.l02-openAccount {font-size:30px; color:#ffffff;}
+.l02-openAccount-para {font-size:20px; color:#ccc;}
+.l02-iconTitles {font-size:29px; color:#FFF; text-align: center;}
+.l02-iconbody {font-size:16px;  color:#fff; margin-bottom: 30px; text-align: justify;}
+.l02-form-positioning {padding-left:30px; padding-right:30px; padding-bottom: 45px;}
+.l02-marginTop {margin-top: 0px;}
+
+/************* Landing Page 03 - landing-page-03.html  ********************************/
+.bg-landing-03 {background-image:url(../images/landing03/pattern2-01.png); background-repeat:repeat; max-height:700px; background-color: rgb(50,166,164); /* Old browsers */
+background-color: -moz-linear-gradient(left, rgba(50,166,164,1) 0%, rgba(33,128,151,1) 100%); /* FF3.6+ */
+background-color: -webkit-gradient(linear, left top, right top, color-stop(0%,rgba(50,166,164,1)), color-stop(100%,rgba(33,128,151,1))); /* Chrome,Safari4+ */
+background-color: -webkit-linear-gradient(left, rgba(50,166,164,1) 0%,rgba(33,128,151,1) 100%); /* Chrome10+,Safari5.1+ */
+background-color: -o-linear-gradient(left, rgba(50,166,164,1) 0%,rgba(33,128,151,1) 100%); /* Opera 11.10+ */
+background-color: -ms-linear-gradient(left, rgba(50,166,164,1) 0%,rgba(33,128,151,1) 100%); /* IE10+ */
+background-color: linear-gradient(to right, rgba(50,166,164,1) 0%,rgba(33,128,151,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#32a6a4', endColorstr='#218097',GradientType=1 ); /* IE6-9 */}
+.bg-landing-page-03 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed;}
+.bg-currency-signs {background-image:url(../images/landing03/currency-signs.png); background-repeat:no-repeat; background-position:top;}
+.l03-title {font-size:32px; color:#fff;}
+.l03-benefits {font-size:40px; color:#333333;}
+.l03-subtitle { font-size:24px; color:#fff;}
+.l03-body {font-size:15px; color:#fff;}
+.l03-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l03-signup {font-size:38px;}
+.l03-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l03-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l03-iconbody {font-size:16px;  color:#808080;}
+.l03-bgForm { background-color:#fff;}
+.l03-slide-margin{margin-top: 60px; padding-bottom: 20px;}
+.l03-slide-buttons {margin-right:20px; border-radius:6px; font-size: 15px;}
+.l03-marginBottom30 {margin-bottom: 0px;}
+.l03-slide-positioning {margin-top:70px; padding-top:50px;}
+.moveTopSettings {position:relative; top:60px;}
+
+/*************************** START OF LANDING PAGE 04 **************************/
+
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover;  }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:76px; color:#fff; line-height: 76px;}
+.l04-subtitle { font-size:54px; color:#fff; line-height: 67px; }
+.l04-h2-position {margin-top: 70px;}
+.l04-way-position {margin-top:0px;}
+.l04-trade-position {margin-bottom:30px; margin-top:0px;}
+.l04-title-2 {font-size:34px; color:#333333; margin-top: 30px;}
+.l04-intro-para {font-size: 18px; color:#4D4D4D; }
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:25px; }
+.l04-main-slide p { font-size: 25px;}
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:32px; color:#fff; margin-top:50px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-bg-eee-position {padding-top: 40px;}
+a:hover{color: white}
+/************************** END OF LANDING PAGE 04 *****************************/
+
+/************* Landing Page 05 - landing-page-05.html  ********************************/
+.bg-landing-05 {background-image:url(../images/landing05/bg5.jpg); background-repeat:no-repeat; max-height:633px; background-size: cover;}
+.bg-landing-05-second-row {background-image:url(../images/landing05/bg2.jpg); background-repeat:no-repeat; min-height:633px; background-size: cover;}
+.bg-landing-05-form-bg {background-image:url(../images/landing05/pattern111-01.png); background-repeat:repeat; padding-left:15px; padding-right:15px; padding-bottom:40px; }
+
+.l05-title {font-size:46px; color:#fff;}
+.l05-reason {font-size:26px; color:#2c2b33;}
+
+@-moz-document url-prefix() {
+    .l05-reason {margin-top: -60px;}
+}
+
+
+.l05-subtitle { font-size:24px; color:#fff;}
+.l05-body {font-size:15px; color:#fff;}
+.l05-body-02{color:#4d4d4d; font-size: 17px;}
+.l05-openAccount {font-size:32px; color:#fff; margin-top:25px;}
+.l05-signup {font-size:38px;}
+.l05-openAccount-para {font-size:20px; color:#fff; margin-top:25px; margin-bottom:15px;}
+.l05-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l05-iconbody {font-size:16px;  color:#808080;text-align: center}
+.l05-bgForm { background-color:#fff;}
+.l05-slide-margin{margin-top: 45px; padding-bottom: 20px;}
+.l05-slide-buttons {margin-right:20px; border-radius:0px; font-size: 16px; padding: 10px 4px;}
+.l05-slide-para{margin-top: 35px; margin-bottom: 75px;}
+.l05-marginBottom30 {margin-bottom: 0px;}
+.l05-slide-positioning {margin-top:0px; padding-top:0px;}
+.l05-moveTopSettings {position:relative; top:45px;}
+div.l05-box > div {border:1px solid #ddd; padding: 45px; min-height:300px; }
+.l05-last-row {padding-top: 0px; margin-bottom: 0px;}
+/************************** END OF LANDING PAGE 05 *****************************/
+
+/******* Crystal Ball *********/
+.crystal-position {position:relative; left: 0px;}
+.predict-it {font-family: ProximaNovaThin; font-size: 30px; color: #2f373f; margin-bottom: 10px;}
+.welcome {font-size: 40px; margin-top: 30px;}
+.crystal {font-size: 62px; color: #0281ca;}
+.guess {font-size: 20px; margin-top: 20px; margin-bottom: 20px;}
+.btn-enter-now {font-family: ProximaNovaSemiBold; font-size: 19px;}
+.thisWeek {font-family: ProximaNovaLight; font-size: 20px; color: #ffffff; margin-top: 10px; margin-bottom: 0px;}
+.prediction {font-family: ProximaNovaThin; font-size:40px; color: #DB474A; margin-bottom: 0px;}
+.h2crystal {font-family: ProximaNovaThin; font-size: 21px;}
+.crystal-para {font-family: ProximaNovaRegular; font-size: 16px; color: #808080; margin-top: 30px; margin-bottom: 30px;}
+.crystal-symbol {font-size: 17px; font-family: ProximaNovaLight; text-align:center;}
+.top3 {font-size: 23px;}
+.top10 {font-size: 20px;}
+.crystal-line{margin-top:0px; margin-bottom:20px; width:80%; margin-left:10%;}
+.crystal-prediction-bar {background-color:#2F373F; height:200px;}
+.crystal-positioning-content{padding-top:30px; padding-bottom:50px;}
+.crystal-mob {margin-top: 30px;}
+ul.crystal-menu li a {font-family: ProximaNovaSemiBold; font-size: 13px; color: #2f373f; padding: 10px 12px;}
+.crystal-head {margin-bottom:20px; }
+.bg-smoke {background-image: none; background-position: top top; background-repeat: no-repeat; }
+.crystal-price-distance{margin-left:10px; margin-right:10px; width:80px; display:inline-block; text-align:center;}
+.crystal-price-position{padding-top:35px; padding-bottom:35px;}
+.crystal-ball-xs {width: 80%; height: auto;}
+.crystal-ranking-4-10 {border-top:1px solid #eee; margin-top:10px;}
+.crystal-extended-period { display:inline-block; font-size:15px; font-family: ProximaNovaLight; color: #ffffff; border:1px solid #8ac43f; text-align:center; padding:1px 5px 1px 5px; margin-left: 70px; }
+.crystal-live-prices {width:100%; height:45px; border:none;}
+/******** End of Crystal Ball *******/
+
+@media (max-width: 767px) {
+.text-crystal-xs {text-align: center;}	
+.no-margin-top-master {margin-top: 0px;}
+}
+
+@media (min-width: 584px) and (max-width: 767px) {
+	.pammColumn-col-xs-6 {width:50% !important;}
+	.trader-awards-lmfx-pic {margin-top: 85px;}
+	.bg_cacaca {background-color:#cacaca; background-image:url(../images/bgpamm.jpg); background-position:center; height:378px; background-repeat:no-repeat;}
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:54px; color:#fff;}
+.l01-title-position {margin-top:60px;}	
+.l03-slide-margin{margin-top: 0px; padding-bottom: 20px;}
+.l03-slide-positioning {margin-top:0px; padding-top:30px;}
+}
+
+@media (max-width: 767px) {
+/******** Traders Awards  -traders-awards.html -************/
+.bg_traders-awards {background-position: -150px;}
+.bg-trophy {background-image:none;}
+.bg-trophy > h2 > span {background-color: rgba(0,0,0,0.5); padding:10px; }
+.heading-subtitle-trader-awards {font-size:21px; line-height:24px !important;}
+.btn-xs-trader-awards {line-height: 30px;}
+
+.l01-divSize {height: 100vh;}
+.l01-float-alignment-left { float: left;}
+.l01-float-alignment-right { float: right;}
+.l03-fieldsMargin {margin-bottom: 20px;}
+
+.bg-landing-page-04 {background-position:center center;}
+.l04-extra-bg {background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.61) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.61)), color-stop(100%,rgba(44,43,51,0.61))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.61) 0%,rgba(44,43,51,0.61) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.61) 0%,rgba(44,43,51,0.61) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.61) 0%,rgba(44,43,51,0.61) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.61) 0%,rgba(44,43,51,0.61) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */}
+
+.l04-intro-para { text-align: justify !important;}
+
+.non-pull-right-xs {float: none !important;}
+}
+
+@media (min-width: 768px) {
+.bg_slide_photo {background-image:url(../images/bg-photo.png); background-position: center bottom; background-repeat: no-repeat; height: 477px; padding-top: 120px; padding-bottom: 100px; margin-top: 0px;}
+.heading-landings {font-size:44px; line-height:45px !important;}
+.heading-landings-sub {font-size:26px;  margin-bottom:0px !important; margin-top:0px !important;  line-height:50px !important}
+.btn-landing-settings {width:205px; font-size:19px; height:50px; margin-right:20px;}
+.landing-heading {padding-top:0px;}
+/****** Demo 2 *******/
+.marginHandLeft {margin-top: 25px}
+.marginHand {margin-top: 85px}
+.heading-landings-demo-2 {font-size:36px; line-height:36px !important;}
+.bg_demo2 {background-image:url(../images/bglearn.jpg); background-position: center bottom; background-repeat: no-repeat; height: 415px;}
+.lmfx-awards-heading {font-size: 30px;}
+.details-demo-2 {margin-top: 20px;}
+/******** Traders Awards  -traders-awards.html -************/
+.bg_traders-awards {background-image:url(../images/header-traders-awards.jpg); /*background-position: center bottom;*/ background-position:-185px; background-repeat: no-repeat; height: 515px; background-color:#1d1d1d; }
+.bg-trophy {background-image:url(../images/trophy.png); background-position:center; background-repeat:no-repeat; height:295px; margin-top:50px; text-align:center; padding-top:0px; background-size: 100%;}
+.heading-subtitle-trader-awards {font-size:23px; line-height:24px !important;}
+/******** Traders Awards-2  -traders-awards-2.html -************/
+.bg_cacaca {background-color:#cacaca; background-image:url(../images/bgpamm.jpg); background-position:center; height:416px; background-repeat:no-repeat;}
+.pamm-heading-landing {font-size:23px; color:#fff; line-height:25px; margin-top:0px;}
+.btn-landing-pamm {width:100%; font-size:19px; height:50px; margin-right:20px;}
+.pammSlide p {font-size:14px; margin-top: 15px;}
+.pammSlide {padding-left:20px; padding-right:20px; margin-top: 90px;}
+.borderPammSlide {border-left:0px solid #e5e5e5;}
+.trader-awards-lmfx-pic {margin-top: 150px;}
+.btn-trader-awards-2{width:45%; font-size:16px; height:50px; margin-right:20px; line-height: 30px;}
+
+/*****Phone Landing Page 01 phone-landing-page-01.html- ****/
+.l01-phone-title {font-size:30px; color:#fff;}
+.l01-phone-benefits {font-size:44px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:30px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:28px; color:#fff; margin-top:185px;}
+.l01-phone-openAccount-para {font-size:20px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l01-phone-iconTitles {font-size:18px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:13px;  color:#4d4d4d; text-align: center;}
+.listFeaturesLanding{margin-top:35px;}
+.l01-phone-form-positioning {padding-left:20px; padding-right:20px; padding-bottom:175px; height:100vh;}
+.l01-phone-title-position {margin-top:280px;}
+.l01-phone-listFeaturesLanding{margin-top:15px;}
+
+
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:30px; color:#fff;}
+.l01-benefits {font-size:44px; color:#2f2f30;}
+.l01-subtitle { font-size:30px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:28px; color:#fff; margin-top:185px;}
+.l01-openAccount-para {font-size:20px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l01-iconTitles {font-size:18px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:13px;  color:#4d4d4d; text-align: center;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed; height:100vh; background-size: cover;}
+.l01-form-positioning {padding-left:20px; padding-right:20px; padding-bottom:175px; height:100vh;}
+.l01-title-position {margin-top:280px;}
+.l01-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:15px;}
+/*********************** Landing Page 02  - landing-page-02.html ******************************************/
+.bg-landing-page-02 {background-image:url(../images/landing02/bg-02.png); background-repeat:no-repeat; background-size:contain; background-position:left center;}
+.l02-title {font-size:48px; color:#2c2b33; margin-top: 0px;}
+.l02-benefits {font-size:42px; color:#fff;}
+.l02-slogan {font-size:32px; color:#fff;}
+.l02-subtitle { font-size:32px; color:#2c2b33;}
+.l02-body {font-size:15px; color:#fff;}
+.l02-openAccount {font-size:30px; color:#fff;}
+.l02-openAccount-para {font-size:20px; color:#ccc;}
+.l02-iconTitles {font-size:29px; color:#FFF; }
+.l02-iconbody {font-size:16px;  color:#fff; text-align: center;}
+.l02-form-positioning {padding-left:15px; padding-right:15px; padding-bottom: 45px; float: left; position: relative; top: -20px;}
+.l02-marginTop {margin-top: 120px;}
+
+/************* Landing Page 03 - landing-page-03.html  ********************************/
+.bg-landing-03 {max-height:700px;}
+.bg-landing-page-03 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed;}
+.bg-currency-signs {background-image:url(../images/landing03/currency-signs.png); background-repeat:no-repeat; background-position:top;}
+.l03-title {font-size:34px; color:#fff;}
+.l03-benefits {font-size:45px; color:#333333;}
+.l03-subtitle { font-size:38px; color:#fff;}
+.l03-body {font-size:15px; color:#fff;}
+.l03-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l03-signup {font-size:45px;}
+.l03-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l03-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l03-iconbody {font-size:16px;  color:#808080;}
+.l03-bgForm { background-color:#fff;}
+.l03-slide-margin{margin-top: 80px;}
+.l03-slide-buttons {margin-right:20px; border-radius:6px; font-size: 18px;}
+.l03-marginBottom30 {margin-bottom: 30px;}
+.l03-slide-positioning {margin-top:70px; padding-top:50px;}
+.moveTopSettings {position:relative; top:30px;}
+
+/*************************** START OF LANDING PAGE 04 **************************/
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover; }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:90px; color:#fff; line-height: 90px;}
+.l04-subtitle { font-size:46px; color:#fff; line-height: 67px;}
+.l04-title-2 {font-size:48px; color:#333333; margin-top: 60px;}
+.l04-intro-para {font-size: 22px; color:#4D4D4D;}
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:80px; }
+
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:28px; color:#fff; margin-top:155px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:20px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-h2-position {margin-top: 70px;}
+.l04-main-slide p { font-size: 25px;}
+.l04-bg-eee-position {padding-top: 40px;}
+/************************** END OF LANDING PAGE 04 *****************************/
+
+/************* Landing Page 05 - landing-page-05.html  ********************************/
+.bg-landing-05 {background-image:url(../images/landing05/bg5.jpg); background-repeat:no-repeat; max-height:633px; background-size: cover;}
+.bg-landing-05-second-row {background-image:url(../images/landing05/bg2.jpg); background-repeat:no-repeat; min-height:610px; background-size: cover;}
+.bg-landing-05-form-bg {background-image:url(../images/landing05/pattern111-01.png); background-repeat:repeat; padding-left:20px; padding-right:20px; padding-bottom:40px; }
+
+.l05-title {font-size:38px; color:#fff;}
+.l05-reason {font-size:42px; color:#2c2b33;}
+
+@-moz-document url-prefix() {
+    .l05-reason {margin-top: -60px;}
+}
+
+.l05-subtitle { font-size:24px; color:#fff;}
+.l05-body {font-size:15px; color:#fff;}
+.l05-body-02{color:#4d4d4d; font-size: 20px;}
+.l05-openAccount {font-size:32px; color:#fff; margin-top:25px;}
+.l05-signup {font-size:38px;}
+.l05-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:15px;}
+.l05-iconTitles {font-size:19px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l05-iconbody {font-size:16px;  color:#808080;}
+.l05-bgForm { background-color:#fff;}
+.l05-slide-margin{margin-top: 55px; padding-bottom: 20px;}
+.l05-slide-buttons {margin-right:20px; border-radius:0px; font-size: 16px;}
+.l05-slide-para{margin-top: 35px; margin-bottom: 75px;}
+.l05-marginBottom30 {margin-bottom: 0px;}
+.l05-slide-positioning {margin-top:0px; padding-top:0px;}
+.l05-moveTopSettings {position:relative; top:45px;}
+div.l05-box > div {border:1px solid #ddd; padding: 45px; min-height:410px; }
+
+.l05-last-row {padding-top: 0px; margin-bottom: 0px;}
+/************************** END OF LANDING PAGE 05 *****************************/
+
+/******* Crystal Ball *********/
+.crystal-position {position:absolute; left:0px;}
+.predict-it {font-family: ProximaNovaThin; font-size: 28px; color: #2f373f; margin-bottom: 30px;}
+.welcome {font-size: 40px; margin-top: 30px;}
+.crystal {font-size: 62px; color: #0281ca;}
+.guess {font-size: 18px; margin-top: 20px; margin-bottom: 20px;}
+.btn-enter-now {font-family: ProximaNovaSemiBold; font-size: 19px;}
+.thisWeek {font-family: ProximaNovaLight; font-size: 20px; color: #ffffff; margin-top: 40px; margin-bottom: 0px;}
+.prediction {font-family: ProximaNovaThin; font-size:66px; color: #DB474A; }
+.h2crystal {font-family: ProximaNovaThin; font-size: 26px;}
+.crystal-para {font-family: ProximaNovaRegular; font-size: 16px; color: #808080; margin-top: 30px; margin-bottom: 30px;}
+.crystal-symbol {font-size: 25px; font-family: ProximaNovaLight; text-align:center;}
+.top3 {font-size: 23px;}
+.top10 {font-size: 20px;}
+.crystal-line{margin-top:0px; margin-bottom:20px; width:80%; margin-left:10%;}
+.crystal-prediction-bar {background-color:#2F373F; height:200px;}
+ul.crystal-menu li a {font-family: ProximaNovaSemiBold; font-size: 16px; color: #2f373f;}
+.crystal-positioning-content{padding-top:70px; padding-bottom:50px;}
+.crystal-head {margin-bottom:80px; }
+.bg-smoke {background-image: none; background-position: left center; background-repeat: no-repeat; }
+.crystal-price-distance{margin-left:20px; margin-right:20px; width:100px; display:inline-block; text-align:center;}
+.crystal-price-position{padding-top:35px; padding-bottom:35px;}
+.crystal-ranking-4-10 {border-left:1px solid #ccc; border-top:none; margin-top:40px;}
+/******** End of Crystal Ball *******/
+
+
+}
+
+@media (min-width: 768px) and (max-width: 991px) { 
+.pull-right-sm { float: right;}
+.l04-title-2{margin-bottom: 30px;}
+.crystal-position { top:-25px;}
+}
+@media (min-width: 992px) {
+.bg_slide_photo {background-image:url(../images/bg-photo.png); background-position: center bottom; background-repeat: no-repeat; height: 477px; padding-top: 120px; padding-bottom: 100px; margin-top: 0px;}
+.heading-landings {font-size:54px; line-height:45px !important;}
+.heading-landings-sub {font-size:36px;  margin-bottom:0px !important; margin-top:0px !important;  line-height:50px !important}
+.btn-landing-settings {width:205px; font-size:19px; height:50px; margin-right:20px;}
+.landing-heading {padding-top:20px;}
+/****** Demo 2 *******/
+.marginHandLeft {margin-top: 40px}
+.marginHand {margin-top: 106px}
+.heading-landings-demo-2 {font-size:42px; line-height:40px !important;}
+.bg_demo2 {background-image:url(../images/bglearn.jpg); background-position: center bottom; background-repeat: no-repeat; height: 515px;}
+.lmfx-awards-heading {font-size: 28px;}
+.details-demo-2 {margin-top: 40px;}
+/******** Traders Awards  -traders-awards.html -************/
+.bg_traders-awards {background-image:url(../images/header-traders-awards.jpg); background-position: center bottom; background-repeat: no-repeat; height: 560px; background-color:#1d1d1d;}
+.bg-trophy {background-image:url(../images/trophy.png); background-position:center; background-repeat:no-repeat; height:415px; margin-top:50px; text-align:center; padding-top:80px;}
+.heading-subtitle-trader-awards {font-size:24px; line-height:24px !important;}
+/******** Traders Awards-2  -traders-awards-2.html -************/
+.bg_cacaca {background-color:#cacaca; background-image:url(../images/bgpamm.jpg); background-position:center; height:480px; background-repeat:no-repeat;}
+.pamm-heading-landing {font-size:26px; color:#fff; line-height:28px; margin-top:0px;}
+.btn-landing-pamm {width:100%; font-size:17px; height:50px; line-height:30px; margin-right:20px;}
+.pammSlide p {font-size:14px; margin-top: 20px;}
+.pammSlide {padding-left:40px; padding-right:40px; margin-top: 120px;}
+.borderPammSlide {border-left:3px solid #e5e5e5;}
+.trader-awards-lmfx-pic {margin-top: 150px;}
+.btn-trader-awards-2 {width:205px; font-size:19px; height:50px; margin-right:20px;}
+/***** Phone Landing Page 01 phone-landing-page-01.html- ****/
+.l01-phone-title {font-size:48px; color:#fff;}
+.l01-phone-benefits {font-size:52px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:36px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:29px; color:#fff; margin-top:130px;}
+.l01-phone-openAccount-para {font-size:21px; color:#fff; margin-top:25px; margin-bottom:25px;}
+.l01-phone-iconTitles {font-size:18px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:13px;  color:#4d4d4d;}
+.l01-phone-form-positioning {padding-left:30px; padding-right:30px; padding-bottom:145px; height:100vh;}
+.l01-phone-title-position {margin-top:210px;}
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:48px; color:#fff;}
+.l01-benefits {font-size:52px; color:#2f2f30;}
+.l01-subtitle { font-size:36px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:29px; color:#fff; margin-top:130px;}
+.l01-openAccount-para {font-size:21px; color:#fff; margin-top:25px; margin-bottom:25px;}
+.l01-iconTitles {font-size:18px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:13px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed; height:100vh; background-size: cover;}
+.l01-form-positioning {padding-left:30px; padding-right:30px; padding-bottom:145px; height:100vh;}
+.l01-title-position {margin-top:210px;}
+.l01-arrow {position:absolute; left:68%; right:0px; bottom:110px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:20px;}
+
+/*********************** Landing Page 02  - landing-page-02.html ******************************************/
+.bg-landing-page-02 {background-image:url(../images/landing02/bg-02.png); background-repeat:no-repeat; background-size:contain; background-position:left center;}
+.l02-title {font-size:64px; color:#2c2b33;}
+.l02-benefits {font-size:52px; color:#fff;}
+.l02-slogan {font-size:24px; color:#fff;}
+.l02-subtitle { font-size:42px; color:#2c2b33;}
+.l02-body {font-size:15px; color:#fff;}
+.l02-openAccount {font-size:24px; color:#fff;}
+.l02-openAccount-para {font-size:16px; color:#ccc;}
+.l02-iconTitles {font-size:24px; color:#FFF;}
+.l02-iconbody {font-size:16px;  color:#fff;}
+.l02-form-positioning {padding-left:15px; padding-right:15px; padding-bottom: 45px; float: right; position: relative; top: 0px;}
+.l02-marginTop {margin-top: 120px;}
+
+/************* Landing Page 03 - landing-page-03.html  ********************************/
+.bg-landing-03 {max-height:700px;}
+.bg-landing-page-03 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed;}
+.bg-currency-signs {background-image:url(../images/landing03/currency-signs.png); background-repeat:no-repeat; background-position:top;}
+.l03-title {font-size:44px; color:#fff;}
+.l03-benefits {font-size:45px; color:#333333;}
+.l03-subtitle { font-size:38px; color:#fff;}
+.l03-body {font-size:15px; color:#fff;}
+.l03-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l03-signup {font-size:45px;}
+.l03-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l03-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l03-iconbody {font-size:16px;  color:#808080;}
+.l03-bgForm { background-color:#fff;}
+.l03-slide-margin{margin-top: 115px;}
+.l03-slide-buttons {margin-right:20px; border-radius:6px; font-size: 18px;}
+.l03-marginBottom30 {margin-bottom: 30px;}
+.l03-slide-positioning {margin-top:40px; padding-top:50px;}
+.moveTopSettings {position:relative; top:50px;}
+
+/*************************** START OF LANDING PAGE 04 **************************/
+
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover; }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:90px; color:#fff; line-height: 90px;}
+.l04-subtitle { font-size:67px; color:#fff; line-height: 67px;}
+.l04-title-2 {font-size:60px; color:#333333; margin-top: 80px; }
+.l04-intro-para {font-size: 22px; color:#4D4D4D;}
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:80px; }
+
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:32px; color:#fff; margin-top:150px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:0px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-h2-position {margin-top: 70px;}
+.l04-main-slide p { font-size: 25px;}
+.l04-bg-eee-position {padding-top: 80px;}
+/************************** END OF LANDING PAGE 04 *****************************/
+
+/************* Landing Page 05 - landing-page-05.html  ********************************/
+.bg-landing-05 {background-image:url(../images/landing05/bg5.jpg); background-repeat:no-repeat; max-height:633px; background-size: cover;}
+.bg-landing-05-second-row {background-image:url(../images/landing05/bg2.jpg); background-repeat:no-repeat; min-height:633px; background-size: cover;}
+.bg-landing-05-form-bg {background-image:url(../images/landing05/pattern111-01.png); background-repeat:repeat; padding-left:30px; padding-right:30px; padding-bottom:40px; }
+
+.l05-title {font-size:32px; color:#fff;}
+.l05-reason {font-size:42px; color:#2c2b33;}
+
+@-moz-document url-prefix() {
+    .l05-reason {margin-top: -60px;}
+}
+
+.l05-subtitle { font-size:24px; color:#fff;}
+.l05-body {font-size:15px; color:#fff;}
+.l05-body-02{color:#4d4d4d; font-size: 20px;}
+.l05-openAccount {font-size:32px; color:#fff; margin-top:25px;}
+.l05-signup {font-size:38px;}
+.l05-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:15px;}
+.l05-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l05-iconbody {font-size:16px;  color:#808080;}
+.l05-bgForm { background-color:#fff;}
+.l05-slide-margin{margin-top: 110px; padding-bottom: 20px;}
+.l05-slide-buttons {margin-right:20px; border-radius:0px; font-size: 16px;}
+.l05-slide-para{margin-top: 35px; margin-bottom: 75px;}
+.l05-marginBottom30 {margin-bottom: 0px;}
+.l05-slide-positioning {margin-top:0px; padding-top:0px;}
+.l05-moveTopSettings {position:relative; top:45px;}
+div.l05-box > div {border:1px solid #ddd; padding: 45px; min-height:345px; }
+.l05-last-row {padding-top: 30px; margin-bottom: 50px;}
+/************************** END OF LANDING PAGE 05 *****************************/
+
+/******* Crystal Ball *********/
+.crystal-position {position:absolute; left:0px;}
+.predict-it {font-family: ProximaNovaThin; font-size: 36px; color: #2f373f; margin-bottom: 30px;}
+.welcome {font-size: 40px; margin-top: 30px;}
+.crystal {font-size: 72px; color: #0281ca;}
+.guess {font-size: 21px; margin-top: 20px; margin-bottom: 20px;}
+.btn-enter-now {font-family: ProximaNovaSemiBold; font-size: 19px;}
+.thisWeek {font-family: ProximaNovaLight; font-size: 20px; color: #ffffff; margin-top: 40px; margin-bottom: 0px;}
+.prediction {font-family: ProximaNovaThin; font-size:54px; color: #DB474A; }
+.h2crystal {font-family: ProximaNovaThin; font-size: 32px;}
+.crystal-para {font-family: ProximaNovaRegular; font-size: 16px; color: #808080; margin-top: 30px; margin-bottom: 30px;}
+.crystal-symbol {font-size: 25px; font-family: ProximaNovaLight; text-align:center;}
+.top3 {font-size: 23px;}
+.top10 {font-size: 20px;}
+.crystal-line{margin-top:0px; margin-bottom:20px; width:80%; margin-left:10%;}
+.crystal-prediction-bar {background-color:#2F373F; height:200px;}
+ul.crystal-menu li a {font-family: ProximaNovaSemiBold; font-size: 16px; color: #2f373f;}
+.crystal-positioning-content{padding-top:70px; padding-bottom:50px;}
+.crystal-head {margin-bottom:80px; }
+.bg-smoke {background-image:none; background-position: left center; background-repeat: no-repeat; }
+.crystal-price-distance{margin-left:20px; margin-right:20px; width:100px; display:inline-block; text-align:center;}
+.crystal-price-position{padding-top:35px; padding-bottom:35px;}
+.crystal-ranking-4-10 {border-left:1px solid #ccc; border-top:none; margin-top:40px;}
+/******** End of Crystal Ball *******/
+
+}
+@media (min-width:992px) and (max-width: 1199px) {
+.l04-form-slide {padding-left: 40px;}
+.l04-title-2 {margin-bottom: 40px;}
+.crystal-position {width: 95%;}
+}
+@media (min-width: 1200px) {
+.bg_slide_photo {background-image:url(../images/bg-photo.png); background-position: center bottom; background-repeat: no-repeat; height: 477px; padding-top: 120px; padding-bottom: 100px; margin-top: 0px;}
+.heading-landings {font-size:60px; line-height:45px !important;}
+.heading-landings-sub {font-size:42px;  margin-bottom:0px !important; margin-top:0px !important;  line-height:50px !important}
+.btn-landing-settings {width:205px; font-size:19px; height:50px; margin-right:20px;}
+.landing-heading {padding-top:20px;}
+/****** Demo 2 *******/
+.marginHandLeft {margin-top: 85px}
+.marginHand {margin-top: 85px}
+.heading-landings-demo-2 {font-size:60px; line-height:45px !important;}
+.bg_demo2 {background-image:url(../images/bglearn.jpg); background-position: center bottom; background-repeat: no-repeat; height: 565px;}
+.lmfx-awards-heading {font-size: 30px;}
+.details-demo-2 {margin-top: 40px;}
+/******** Traders Awards  -traders-awards.html -************/
+.bg_traders-awards {background-image:url(../images/header-traders-awards.jpg); background-position: center bottom; background-repeat: no-repeat; height: 650px; background-color:#1d1d1d;}
+.bg-trophy {background-image:url(../images/trophy.png); background-position:center; background-repeat:no-repeat; height:530px; margin-top:50px; text-align:center; padding-top:170px;}
+.heading-subtitle-trader-awards {font-size:24px; line-height:24px !important;}
+/******** Traders Awards-2  -traders-awards-2.html -************/
+.bg_cacaca {background-color:#cacaca; background-image:url(../images/bgpamm.jpg); background-position:center; height:589px; background-repeat:no-repeat;}
+.pamm-heading-landing {font-size:36px; color:#fff; line-height:38px; margin-top:0px;}
+.btn-landing-pamm {width:100%; font-size:19px; height:50px; margin-right:20px;}
+.pammSlide p {font-size:14px; margin-top: 20px;}
+.pammSlide {padding-left:60px; padding-right:60px; margin-top: 120px;}
+.borderPammSlide {border-left:3px solid #e5e5e5;}
+.trader-awards-lmfx-pic {margin-top: 150px;}
+.btn-trader-awards-2 {width:205px; font-size:19px; height:50px; margin-right:20px;}
+/***** Phone Landing Page 01 -Phone landing-page-01.html- ****/
+.l01-phone-title {font-size:62px; color:#fff;}
+.l01-phone-benefits {font-size:52px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:43px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l01-phone-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l01-phone-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:16px;  color:#4d4d4d;}
+.l01-phone-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-phone-title-position {margin-top:280px;}
+.l01-phone-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:62px; color:#fff;}
+.l01-benefits {font-size:52px; color:#2f2f30;}
+.l01-subtitle { font-size:43px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l01-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l01-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:16px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed; height:100vh; background-size: cover;}
+.l01-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-title-position {margin-top:280px;}
+.l01-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:35px;}
+/*********************** Landing Page 02  - landing-page-02.html ******************************************/
+.bg-landing-page-02 {background-image:url(../images/landing02/bg-02.png); background-repeat:no-repeat; background-size:contain; background-position:left center;}
+.l02-title {font-size:75px; color:#2c2b33;}
+.l02-benefits {font-size:52px; color:#fff;}
+.l02-slogan {font-size:32px; color:#fff;}
+.l02-subtitle { font-size:51px; color:#2c2b33;}
+.l02-body {font-size:15px; color:#fff;}
+.l02-openAccount {font-size:30px; color:#fff;}
+.l02-openAccount-para {font-size:20px; color:#ccc;}
+.l02-iconTitles {font-size:29px; color:#FFF;}
+.l02-iconbody {font-size:16px;  color:#fff;}
+.l02-form-positioning {padding-left:30px; padding-right:30px; padding-bottom: 45px; float: left;position: relative; top: 0px;}
+.l02-marginTop {margin-top: 120px;}
+
+/************* Landing Page 03 - landing-page-03.html  ********************************/
+.bg-landing-03 {max-height:700px;}
+.bg-landing-page-03 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed;}
+.bg-currency-signs {background-image:url(../images/landing03/currency-signs.png); background-repeat:no-repeat; background-position:top;}
+.l03-title {font-size:58px; color:#fff;}
+.l03-benefits {font-size:45px; color:#333333;}
+.l03-subtitle { font-size:41px; color:#fff;}
+.l03-body {font-size:15px; color:#fff;}
+.l03-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l03-signup {font-size:45px;}
+.l03-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l03-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l03-iconbody {font-size:16px;  color:#808080;}
+.l03-bgForm { background-color:#fff;}
+.l03-slide-margin{margin-top: 120px;}
+.l03-slide-buttons {margin-right:20px; border-radius:6px; font-size: 18px;}
+.l03-marginBottom30 {margin-bottom: 30px;}
+.l03-slide-positioning {margin-top:40px; padding-top:50px;}
+.moveTopSettings {position:relative; top:60px;}
+
+/*************************** START OF LANDING PAGE 04 **************************/
+
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover; }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:116px; color:#fff; line-height: 100px;}
+.l04-subtitle { font-size:89px; color:#fff; line-height: 89px;}
+.l04-title-2 {font-size:60px; color:#333333; margin-top: 80px; margin-bottom: 50px;}
+.l04-intro-para {font-size: 22px; color:#4D4D4D;}
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:80px; }
+.l04-form-slide {padding-left: 0px !important;}
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:32px; color:#fff; margin-top:175px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-h2-position {margin-top: 70px;}
+.l04-main-slide p { font-size: 25px;}
+.l04-bg-eee-position {padding-top: 80px;}
+/************************** END OF LANDING PAGE 04 *****************************/
+
+/************* Landing Page 05 - landing-page-05.html  ********************************/
+.bg-landing-05 {background-image:url(../images/landing05/bg5.jpg); background-repeat:no-repeat; max-height:633px; background-size: cover;}
+.bg-landing-05-second-row {background-image:url(../images/landing05/bg2.jpg); background-repeat:no-repeat; min-height:633px; background-size: cover;}
+.bg-landing-05-form-bg {background-image:url(../images/landing05/pattern111-01.png); background-repeat:repeat; padding-left:60px; padding-right:60px; padding-bottom:40px; }
+
+.l05-title {font-size:46px; color:#fff;}
+.l05-reason {font-size:42px; color:#2c2b33;}
+
+@-moz-document url-prefix() {
+    .l05-reason {margin-top: -60px;}
+}
+
+.l05-subtitle { font-size:24px; color:#fff;}
+.l05-body {font-size:15px; color:#fff;}
+.l05-body-02{color:#4d4d4d; font-size: 20px;}
+.l05-openAccount {font-size:32px; color:#fff; margin-top:25px;}
+.l05-signup {font-size:38px;}
+.l05-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:15px;}
+.l05-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l05-iconbody {font-size:16px;  color:#808080;}
+.l05-bgForm { background-color:#fff;}
+.l05-slide-margin{margin-top: 110px; padding-bottom: 20px;}
+.l05-slide-buttons {margin-right:20px; border-radius:0px; font-size: 16px;}
+.l05-slide-para{margin-top: 35px; margin-bottom: 75px;}
+.l05-marginBottom30 {margin-bottom: 0px;}
+.l05-slide-positioning {margin-top:0px; padding-top:0px;}
+.l05-moveTopSettings {position:relative; top:45px;}
+div.l05-box > div {border:1px solid #ddd; padding: 45px; min-height:340px; }
+.l05-last-row {padding-top: 30px; margin-bottom: 50px;}
+/************************** END OF LANDING PAGE 05 *****************************/
+
+/******* Crystal Ball *********/
+.crystal-position {position:absolute; left:80px;}
+.predict-it {font-family: ProximaNovaThin; font-size: 43px; color: #2f373f; margin-bottom: 30px;}
+.welcome {font-size: 40px; margin-top: 30px;}
+.crystal {font-size: 82px; color: #0281ca;}
+.guess {font-size: 25px; margin-top: 20px; margin-bottom: 20px;}
+.btn-enter-now {font-family: ProximaNovaSemiBold; font-size: 19px;}
+.thisWeek {font-family: ProximaNovaLight; font-size: 20px; color: #ffffff; margin-top: 40px; margin-bottom: 0px;}
+.prediction {font-family: ProximaNovaThin; font-size:66px; color: #DB474A; }
+.h2crystal {font-family: ProximaNovaThin; font-size: 39px;}
+.crystal-para {font-family: ProximaNovaRegular; font-size: 16px; color: #808080; margin-top: 30px; margin-bottom: 30px;}
+.crystal-symbol {font-size: 25px; font-family: ProximaNovaLight; text-align:center;}
+.top3 {font-size: 23px;}
+.top10 {font-size: 20px;}
+.crystal-line{margin-top:0px; margin-bottom:20px; width:80%; margin-left:10%;}
+.crystal-prediction-bar {background-color:#2F373F; height:200px;}
+ul.crystal-menu li a {font-family: ProximaNovaSemiBold; font-size: 16px; color: #2f373f;}
+.crystal-positioning-content{padding-top:70px; padding-bottom:50px;}
+.crystal-head {margin-bottom:80px; }
+.bg-smoke {background-image: url(../images/crystal-contest/smokebg.jpg); background-position: left center; background-repeat: no-repeat; }
+.crystal-price-distance{margin-left:20px; margin-right:20px; width:100px; display:inline-block; text-align:center;}
+.crystal-price-position{padding-top:35px; padding-bottom:35px;}
+.crystal-ranking-4-10 {border-left:1px solid #ccc; border-top:none; margin-top:40px;}
+/******** End of Crystal Ball *******/
+}
+
+@media (min-width: 1200px) and (max-height: 760px){
+	/***** Phone Landing Page 01 -Phone landing-page-01.html- ****/
+.l01-phone-title {font-size:54px; color:#fff;}
+.l01-phone-benefits {font-size:44px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:43px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:32px; color:#fff; margin-top:45px;}
+.l01-phone-openAccount-para {font-size:25px; color:#fff; margin-top:10px; margin-bottom:15px;}
+.l01-phone-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:16px;  color:#4d4d4d;}
+.l01-phone-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-phone-title-position {margin-top:140px;}
+.l01-phone-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-phone-listFeaturesLanding{margin-top:35px;}	
+
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:54px; color:#fff;}
+.l01-benefits {font-size:44px; color:#2f2f30;}
+.l01-subtitle { font-size:43px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:32px; color:#fff; margin-top:45px;}
+.l01-openAccount-para {font-size:25px; color:#fff; margin-top:10px; margin-bottom:15px;}
+.l01-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:16px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed; height:100vh; background-size: cover;}
+.l01-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-title-position {margin-top:140px;}
+.l01-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:35px;}	
+
+/*************************** START OF LANDING PAGE 04 **************************/
+
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover; }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:70px; color:#fff; line-height: 70px;}
+.l04-subtitle { font-size:60px; color:#fff; line-height: 60px;}
+.l04-title-2 {font-size:60px; color:#333333; margin-top: 80px; margin-bottom: 50px;}
+.l04-intro-para {font-size: 22px; color:#4D4D4D;}
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:80px; }
+.l04-form-slide {padding-left: 0px !important;}
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:32px; color:#fff; margin-top:25px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:25px; color:#fff; margin-top:15px; margin-bottom:0px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-h2-position {margin-top: 70px;}
+.l04-main-slide p { font-size: 25px;}
+.l04-bg-eee-position {padding-top: 80px;}
+/************************** END OF LANDING PAGE 04 *****************************/
+}  
+
+@media (min-width: 1200px) and (max-height: 800px){
+	/***** Phone Landing Page 01 -landing-page-01.html- ****/
+.l01-phone-title {font-size:54px; color:#fff;}
+.l01-phone-benefits {font-size:44px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:43px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:32px; color:#fff; margin-top:50px;}
+.l01-phone-openAccount-para {font-size:25px; color:#fff; margin-top:10px; margin-bottom:15px;}
+.l01-phone-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:16px;  color:#4d4d4d;}
+.l01-phone-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-phone-title-position {margin-top:140px;}
+.l01-phone-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-phone-listFeaturesLanding{margin-top:35px;}	
+	
+	/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:54px; color:#fff;}
+.l01-benefits {font-size:44px; color:#2f2f30;}
+.l01-subtitle { font-size:43px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:32px; color:#fff; margin-top:50px;}
+.l01-openAccount-para {font-size:25px; color:#fff; margin-top:10px; margin-bottom:15px;}
+.l01-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:16px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed; height:100vh; background-size: cover;}
+.l01-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-title-position {margin-top:140px;}
+.l01-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:35px;}	
+
+/*************************** START OF LANDING PAGE 04 **************************/
+
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover; }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:70px; color:#fff; line-height: 70px;}
+.l04-subtitle { font-size:60px; color:#fff; line-height: 60px;}
+.l04-title-2 {font-size:60px; color:#333333; margin-top: 80px; margin-bottom: 50px;}
+.l04-intro-para {font-size: 22px; color:#4D4D4D;}
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:80px; }
+.l04-form-slide {padding-left: 0px !important;}
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:32px; color:#fff; margin-top:65px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:25px; color:#fff; margin-top:15px; margin-bottom:0px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-h2-position {margin-top: 70px;}
+.l04-main-slide p { font-size: 25px;}
+.l04-bg-eee-position {padding-top: 80px;}
+/************************** END OF LANDING PAGE 04 *****************************/
+}  
+
+@media (min-width: 1500px) {
+.bg_slide_photo {background-image:url(../images/bg-photo.png); background-position: center bottom; background-repeat: no-repeat; height: 477px; padding-top: 120px; padding-bottom: 100px; margin-top: 0px;}
+.heading-landings {font-size:60px; line-height:45px !important;}
+.heading-landings-sub {font-size:42px;  margin-bottom:0px !important; margin-top:0px !important;  line-height:50px !important}
+.btn-landing-settings {width:205px; font-size:19px; height:50px; margin-right:20px;}
+.landing-heading {padding-top:20px;}
+
+/****** Demo 2 *******/
+.marginHandLeft {margin-top: 85px}
+.marginHand {margin-top: 3px}  
+.heading-landings-demo-2 {font-size:48px; line-height:45px !important;}
+.bg_demo2 {background-image:url(../images/bglearn.jpg); background-position: center bottom; background-repeat: no-repeat; height: 650px; background-size: cover;}
+.lmfx-awards-heading {font-size: 30px;}
+.details-demo-2 {margin-top: 40px;}
+.demo2-image-learn {margin-left: 170px; margin-top: 125px;}
+.demo2-para-learn {margin-left: 250px; margin-top: 30px;}
+
+/******** Traders Awards  -traders-awards.html -************/
+.bg_traders-awards {background-image:url(../images/header-traders-awards.jpg); background-position: center bottom; background-repeat: no-repeat; height: 650px; background-color:#1d1d1d;}
+.bg-trophy {background-image:url(../images/trophy.png); background-position:center; background-repeat:no-repeat; height:530px; margin-top:50px; text-align:center; padding-top:170px;}
+.heading-subtitle-trader-awards {font-size:24px; line-height:24px !important;}
+
+/******** Traders Awards-2  -traders-awards-2.html -************/
+.bg_cacaca {background-color:#cacaca; background-image:url(../images/bgpamm.jpg); background-position:center; height:650px; background-repeat:no-repeat;}
+.pamm-heading-landing {font-size:67px; color:#fff; line-height:67px; margin-top:0px; text-align: left;}
+.btn-landing-pamm {width:70%; font-size:19px; height:50px; margin-right:20px;}
+.pammSlide p {font-size:26px; margin-top: 20px;}
+.pammSlide {padding-left:0px; padding-right:0px; margin-top: 120px;}
+.borderPammSlide {border-left:3px solid #e5e5e5;}
+.trader-awards-lmfx-pic {margin-top: 150px;}
+.btn-trader-awards-2 {width:205px; font-size:19px; height:50px; margin-right:20px;}
+
+/***** Phone Landing Page 01 -landing-page-01.html- ****/
+.l01-phone-title {font-size:62px; color:#fff;}
+.l01-phone-benefits {font-size:52px; color:#2f2f30;}
+.l01-phone-subtitle { font-size:43px; color:#fff;}
+.l01-phone-body {font-size:15px; color:#fff;}
+.l01-phone-openAccount {font-size:32px; color:#fff; margin-top:85px;}
+.l01-phone-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l01-phone-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-phone-iconbody {font-size:16px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.l01-phone-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-phone-title-position {margin-top:280px;}
+.l01-phone-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+
+
+/***** Landing Page 01 -landing-page-01.html- ****/
+.l01-title {font-size:62px; color:#fff;}
+.l01-benefits {font-size:52px; color:#2f2f30;}
+.l01-subtitle { font-size:43px; color:#fff;}
+.l01-body {font-size:15px; color:#fff;}
+.l01-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l01-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l01-iconTitles {font-size:29px; color:#1980bf; margin-top:0px !important;}
+.l01-iconbody {font-size:16px;  color:#4d4d4d;}
+.listFeaturesLanding{margin-top:35px;}
+.bg-landing-page-01 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover;}
+.l01-form-positioning {padding-left:60px; padding-right:60px; padding-bottom:175px; height:100vh;}
+.l01-title-position {margin-top:280px;}
+.l01-arrow {position:absolute; left:77%; right:0px; bottom:130px; z-index:5;}
+.l01-listFeaturesLanding{margin-top:35px;}
+
+/*********************** Landing Page 02  - landing-page-02.html ******************************************/
+.bg-landing-page-02 {background-image:url(../images/landing02/bg-02.png); background-repeat:no-repeat; background-size:contain; background-position:left center;}
+.l02-title {font-size:75px; color:#2c2b33;}
+.l02-benefits {font-size:52px; color:#fff;}
+.l02-slogan {font-size:32px; color:#fff;}
+.l02-subtitle { font-size:51px; color:#2c2b33;}
+.l02-body {font-size:15px; color:#fff;}
+.l02-openAccount {font-size:30px; color:#fff;}
+.l02-openAccount-para {font-size:20px; color:#ccc;}
+.l02-iconTitles {font-size:29px; color:#FFF;}
+.l02-iconbody {font-size:16px;  color:#fff;}
+.l02-form-positioning {padding-left:30px; padding-right:30px; padding-bottom: 45px; float: left; position: relative; top: 0px;}
+.l02-marginTop {margin-top: 120px;}
+
+/************* Landing Page 03 - landing-page-03.html  ********************************/
+.bg-landing-03 {max-height:700px;}
+.bg-landing-page-03 {background-image:url(../images/landing-01/background.jpg); background-repeat:no-repeat; background-attachment:fixed;}
+.bg-currency-signs {background-image:url(../images/landing03/currency-signs.png); background-repeat:no-repeat; background-position:top;}
+.l03-title {font-size:62px; color:#fff;}
+.l03-benefits {font-size:45px; color:#333333;}
+.l03-subtitle { font-size:43px; color:#fff;}
+.l03-body {font-size:15px; color:#fff;}
+.l03-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l03-signup {font-size:45px;}
+.l03-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l03-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l03-iconbody {font-size:16px;  color:#808080;}
+.l03-bgForm { background-color:#fff;}
+.l03-slide-margin{margin-top: 120px;}
+.l03-slide-buttons {margin-right:20px; border-radius:6px; font-size: 18px;}
+.l03-marginBottom30 {margin-bottom: 30px;}
+.l03-slide-positioning {margin-top:70px; padding-top:50px;}
+.moveTopSettings {position:relative; top:60px;}
+
+/*************************** START OF LANDING PAGE 04 **************************/
+
+.bg-landing-page-04 {background-image:url(../images/landing04/bg.jpg); background-repeat:no-repeat; background-attachment:fixed; min-height:100vh; background-size: cover; }
+.bg-slice-landing-04 {background: -moz-linear-gradient(top, rgba(41,39,51,0.91) 0%, rgba(41,39,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(41,39,51,0.91)), color-stop(100%,rgba(41,39,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(41,39,51,0.91) 0%,rgba(41,39,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e8292733', endColorstr='#e8292733',GradientType=0 ); /* IE6-9 */}
+.l04-title {font-size:116px; color:#fff; line-height: 100px;}
+.l04-subtitle { font-size:89px; color:#fff; line-height: 89px;}
+.l04-title-2 {font-size:60px; color:#333333; margin-top: 80px;}
+.l04-intro-para {font-size: 22px; color:#4D4D4D;}
+.l04-fonto {background-image: url(../images/landing04/l04-left-photo.png), url(../images/landing04/laptop1.png);background-position: left 40px, right 40px;background-size: 18%, 18%;background-repeat: no-repeat; padding-bottom:80px; }
+
+.l04-body {font-size:15px; color:#fff;}
+.l04-openAccount {font-size:32px; color:#fff; margin-top:185px;}
+.l04-signup {font-size:45px;}
+.l04-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:35px;}
+.l04-iconTitles {font-size:24px; color:#333333; margin-top:0px !important; margin-bottom:15px;}
+.l04-iconbody {font-size:18px;  color:#4D4D4D;}
+.l04-bgForm { background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */ width:50vw; min-height:100vh; position:absolute; right:0;}
+.l04-h2-position {margin-top: 70px;}
+.l04-main-slide p { font-size: 25px;}
+.l04-bg-eee-position {padding-top: 80px;}
+/************************** END OF LANDING PAGE 04 *****************************/
+
+/************* Landing Page 05 - landing-page-05.html  ********************************/
+.bg-landing-05 {background-image:url(../images/landing05/bg5.jpg); background-repeat:no-repeat; max-height:633px; background-size: cover;}
+.bg-landing-05-second-row {background-image:url(../images/landing05/bg2.jpg); background-repeat:no-repeat; min-height:633px; background-size: cover;}
+.bg-landing-05-form-bg {background-image:url(../images/landing05/pattern111-01.png); background-repeat:repeat; padding-left:120px; padding-right:120px; padding-bottom:40px; }
+
+.l05-title {font-size:46px; color:#fff;}
+.l05-reason {font-size:42px; color:#2c2b33;}
+
+@-moz-document url-prefix() {
+    .l05-reason {margin-top: -60px;}
+}
+
+.l05-subtitle { font-size:24px; color:#fff;}
+.l05-body {font-size:15px; color:#fff;}
+.l05-body-02{color:#4d4d4d; font-size: 20px;}
+.l05-openAccount {font-size:32px; color:#fff; margin-top:25px;}
+.l05-signup {font-size:38px;}
+.l05-openAccount-para {font-size:25px; color:#fff; margin-top:25px; margin-bottom:15px;}
+.l05-iconTitles {font-size:24px; color:#333333; margin-top:30px !important; margin-bottom:25px;}
+.l05-iconbody {font-size:16px;  color:#808080;}
+.l05-bgForm { background-color:#fff;}
+.l05-slide-margin{margin-top: 110px; padding-bottom: 20px;}
+.l05-slide-buttons {margin-right:20px; border-radius:0px; font-size: 16px;}
+.l05-slide-para{margin-top: 35px; margin-bottom: 75px;}
+.l05-marginBottom30 {margin-bottom: 0px;}
+.l05-slide-positioning {margin-top:0px; padding-top:0px;}
+.l05-moveTopSettings {position:relative; top:45px;}
+div.l05-box > div {border:1px solid #ddd; padding: 45px; min-height:300px; }
+.l05-last-row {padding-top: 30px; margin-bottom: 30px; margin-top: 35px;}
+/************************** END OF LANDING PAGE 05 *****************************/
+
+/******* Crystal Ball *********/
+.crystal-position {position:absolute; left:80px;}
+.predict-it {font-family: ProximaNovaThin; font-size: 43px; color: #2f373f; margin-bottom: 30px;}
+.welcome {font-size: 40px; margin-top: 30px;}
+.crystal {font-size: 82px; color: #0281ca;}
+.guess {font-size: 25px; margin-top: 20px; margin-bottom: 20px;}
+.btn-enter-now {font-family: ProximaNovaSemiBold; font-size: 19px;}
+.thisWeek {font-family: ProximaNovaLight; font-size: 20px; color: #ffffff; margin-top: 40px; margin-bottom: 0px;}
+.prediction {font-family: ProximaNovaThin; font-size:66px; color: #DB474A; }
+.h2crystal {font-family: ProximaNovaThin; font-size: 39px;}
+.crystal-para {font-family: ProximaNovaRegular; font-size: 16px; color: #808080; margin-top: 30px; margin-bottom: 30px;}
+.crystal-symbol {font-size: 25px; font-family: ProximaNovaLight; text-align:center;}
+.top3 {font-size: 23px;}
+.top10 {font-size: 20px;}
+.crystal-line{margin-top:0px; margin-bottom:20px; width:80%; margin-left:10%;}
+.crystal-prediction-bar {background-color:#2F373F; height:200px;}
+ul.crystal-menu li a {font-family: ProximaNovaSemiBold; font-size: 16px; color: #2f373f;}
+.crystal-positioning-content{padding-top:70px; padding-bottom:50px;}
+.crystal-head {margin-bottom:80px; }
+.bg-smoke {background-image: url(../images/crystal-contest/smokebg.jpg); background-position: left center; background-repeat: no-repeat; }
+.crystal-price-distance{margin-left:20px; margin-right:20px; width:100px; display:inline-block; text-align:center;}
+.crystal-price-position{padding-top:35px; padding-bottom:35px;}
+.crystal-ranking-4-10 {border-left:1px solid #ccc; margin-top:40px;}
+/******** End of Crystal Ball *******/
+
+}
+
+@media (min-width: 1500px) and (max-height:901px) {
+	
+.l04-openAccount {font-size:32px; color:#fff; margin-top:85px;}
+}
+  
+.bg_22282E {background-color: #22282E;  }
+.bg_2f373f {background-color:#2f373f;}
+.bg_fff{background-color:#fff;}
+.bg_eee {background-color: #eee;}
+.col_DB474A {color: #DB474A;}
+.col_8ac43f {color:#8ac43f;}
+.col_1980c3 {color:#1980c3;}
+.col_303840 {color:#303840;}
+.col_0281ca {color:#0281ca;}
+.col_808080 {color: #808080;}
+.col_4d4d4d {color:#4d4d4d;}
+.size18 {font-size:18px;}
+.size25 {font-size:25px;}
+.size28 {font-size:28px;}
+.size36 {font-size:36px;}
+.lineHeight27 {line-height:27px;}
+.lineHeight30 {line-height:30px;}
+.marginTop60 {margin-top:60px;}
+.marginTop45 {margin-top: 45px;}
+.marginTop120 {margin-top:120px;}
+.marginTop150 {margin-top:150px;}
+.noMarginBottom {margin-bottom:0px;}
+.noMarginRight {margin-right: 0px !important;}
+.picDistance {margin-right:13px;}
+.heading-subtitle {font-size:24px; line-height:24px !important;}
+
+.btn-landing2-settings {width:250px; font-size:19px; height:50px; margin-right:20px;}
+
+.btn-red-pamm:hover {color:#fff; background-color:#cb4346;}
+.btn-landing-03-red{background-color:#dd474a; color:#fff;}
+.btn-landing-03-red:hover{color:#fff; background-color:#cb4346;}
+.bg-pattern{background-image:url(../images/bg-pattern.png); background-repeat:repeat; height:235px;}
+.bg-pattern-2{background-image:url(../images/bg-pattern-2.png); background-repeat:repeat; height:235px;}
+
+
+
+.btn-traders-awards-blue {border:1px solid #428bca; background-color:transparent; color:#fff;}
+.btn-traders-awards-blue:focus {border:1px solid #428bca; background-color:transparent; color:#fff;}
+.btn-traders-awards-blue:hover {border:1px solid #428bca; background-color:#428bca; color:#fff;}
+
+.btn-traders-awards-blue-l05 {border:1px solid #428bca; background-color:#428bca; color:#fff;}
+.btn-traders-awards-blue-l05:focus {border:1px solid #428bca; background-color:#428bca; color:#fff;}
+.btn-traders-awards-blue-l05:hover {border:1px solid #0470a0; background-color:#0470a0; color:#fff;}
+
+
+.btn-traders-awards-red {border:1px solid #dd474a; background-color:transparent; color:#fff;}
+.btn-traders-awards-red:focus {border:1px solid #dd474a; background-color:transparent; color:#fff;}
+.btn-traders-awards-red:hover {border:1px solid #dd474a; background-color:#dd474a; color:#fff;}
+.btn-landing-white {border:1px solid #fff; background-color:transparent; color:#fff;}
+.btn-landing-white:focus {border:1px solid #fff; background-color:transparent; color:#fff;}
+.btn-landing-white:hover {border:1px solid #fff; background-color:#fff; color:#000;}
+.row-odd-color {background-color:#394147;}
+.traderAwards footer .inner {background-color:#22282e;}
+
+
+/* Landing Page 01 */
+.l01-bgForm {background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */}
+.l01-fields-bg {background: -moz-linear-gradient(top, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.45) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.45)), color-stop(100%,rgba(255,255,255,0.45))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73ffffff', endColorstr='#73ffffff',GradientType=0 ); /* IE6-9 */}
+
+/* Landing Page 01 signup form */
+form#signup-form-landing .inside-signup-form label {visibility:hidden; height:20px; margin-bottom:0px;}
+form#signup-form-landing .inside-signup-form {	/*background-color:#fff;*/	padding:0px;}
+form#signup-form-landing .inside-signup-form h5#title {	font-weight: bold;}
+form#signup-form-landing .inside-signup-form .pad_it {	padding-left:5px;	padding-right:5px;}
+form#signup-form-landing .inside-signup-form input[type="text"], form#signup-form-landing .inside-signup-form select {	
+padding: 5px 10px;   	
+font-family: ProximaNovaRegular;
+font-weight: 400;	
+font-size: 16px;	
+color: #fff !important;	
+background: -moz-linear-gradient(top, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.45) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.45)), color-stop(100%,rgba(255,255,255,0.45))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73ffffff', endColorstr='#73ffffff',GradientType=0 ); /* IE6-9 */	
+border: none !important;
+border-radius: 4px;}
+form#signup-form-landing .inside-signup-form select { background:url(../images/landing-01/arrow.png) #97969a;  background-position:95% center; background-repeat:no-repeat;        appearance:none;  -moz-appearance:none; -webkit-appearance: none;    overflow: hidden;  }
+form#signup-form-landing .inside-signup-form select option {	
+background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */
+appearance:none;  -moz-appearance:none; -webkit-appearance: none; 
+}
+form#signup-form-landing .inside-signup-form input[type="text"]:hover {    background: #414047;    color: #fff;}
+form#signup-form-landing .inside-signup-form input[type="text"]:focus {    background: #414047;    color: #fff;        box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);}
+form#signup-form-landing .inside-signup-form select {	margin-bottom:5px;}
+form#signup-form-landing .inside-signup-form input[type=checkbox]{	position: relative;	vertical-align: bottom;	bottom: 4px; margin-right:5px;}
+form#signup-form-landing .inside-signup-form button{	/*width:100%;*/	margin-top:5px;}
+form#signup-form-landing .inside-signup-form .form-group {	margin-bottom:5px;}
+/*form#signup-form-landing .inside-signup-form label {	margin-bottom:10px;}*/
+form#signup-form-landing .inside-signup-form i.fa {	cursor:pointer;}
+
+form#signup-form-landing .form-control::-moz-placeholder {color: #FFF; opacity: 1;}
+form#signup-form-landing .form-control:-ms-input-placeholder { color: #FFF;}
+form#signup-form-landing .form-control::-webkit-input-placeholder {  color: #FFF;}
+/*End of open form */
+.btn-red-register {background-color:#d04446; border-radius:4px; color:#fff !important;}
+
+
+
+/*********************** Landing Page 02 ******************************************/
+.bg_0d77a2 {background-color:#0d77a2;}
+.l02-bgForm { background-color:#2f2c3f; border-radius:20px 20px 0px 0px;}
+.l02-fields-bg { background-color:#c1c1c1;}
+.l02-icon {height: 66px; width: auto;}
+
+/* Landing Page 02 signup form */
+form#signup-form-landing-2 .inside-signup-form label {display:none; height:20px; margin-bottom:0px; }
+form#signup-form-landing-2 .form-control {margin-top:10px;}
+form#signup-form-landing-2 .inside-signup-form {	padding:0px;}
+form#signup-form-landing-2 .inside-signup-form h5#title {	font-weight: bold;}
+form#signup-form-landing-2 .inside-signup-form .pad_it {	padding-left:5px;	padding-right:5px;}
+form#signup-form-landing-2 .inside-signup-form input[type="text"], form#signup-form-landing-2 .inside-signup-form select {	
+padding: 5px 10px;   	
+font-family: Helvetica, Arial, sans-serif;
+font-weight: 400;	
+font-size: 16px;	
+color: #fff !important;	
+background-color:#c1c1c1;
+border: none !important;
+border-radius: 4px;}
+
+form#signup-form-landing-2 .inside-signup-form select { background:url(../images/landing-01/arrow.png) #afafaf;  background-position:95% center; background-repeat:no-repeat;        appearance:none;  -moz-appearance:none; -webkit-appearance: none;    overflow: hidden;  }
+form#signup-form-landing-2 .inside-signup-form select option {	background-color:#c1c1c1;appearance:none;  -moz-appearance:none; -webkit-appearance: none; }
+form#signup-form-landing-2 .inside-signup-form input[type="text"]:hover {    background: #afafaf;    color: #fff;}
+form#signup-form-landing-2 .inside-signup-form input[type="text"]:focus {    background: #afafaf;    color: #fff;        box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);}
+form#signup-form-landing-2 .inside-signup-form select {	margin-bottom:5px;}
+form#signup-form-landing-2 .inside-signup-form input[type=checkbox]{	position: relative;	vertical-align: bottom;	bottom: 4px; margin-right:5px;}
+form#signup-form-landing-2 .inside-signup-form button{	/*width:100%;*/	margin-top:5px;}
+form#signup-form-landing-2 .inside-signup-form .form-group {	margin-bottom:5px; color: #ccc; font-size: 11px;}
+/*form#signup-form-landing-2 .inside-signup-form label {	margin-bottom:10px;}*/
+form#signup-form-landing-2 .inside-signup-form i.fa {	cursor:pointer;}
+
+form#signup-form-landing-2 .form-control::-moz-placeholder {color: #FFF; opacity: 1;}
+form#signup-form-landing-2 .form-control:-ms-input-placeholder { color: #FFF;}
+form#signup-form-landing-2 .form-control::-webkit-input-placeholder {  color: #FFF;}
+/*End of open form */
+.btn-red-register {background-color:#d04446; border-radius:4px; color:#fff !important;}
+
+/***************** end landing page 02 ************************/
+
+
+/*** Landing page 03 landing-page-03.html *******/
+
+.l03-fields-bg {background: -moz-linear-gradient(top, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.45) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.45)), color-stop(100%,rgba(255,255,255,0.45))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73ffffff', endColorstr='#73ffffff',GradientType=0 ); /* IE6-9 */}
+
+/* Open form */
+
+form#signup-form-landing-03 .inside-signup-form label {visibility:hidden; height:50px; margin-bottom:0px; display:none;}
+form#signup-form-landing-03 .inside-signup-form {	background-color:#fff;	padding:0px;}
+form#signup-form-landing-03 .inside-signup-form h5#title {	font-weight: bold;}
+form#signup-form-landing-03 .inside-signup-form .pad_it {	padding-left:5px;	padding-right:5px;}
+form#signup-form-landing-03 .inside-signup-form input[type="text"], form#signup-form-landing-03 .inside-signup-form select {	
+padding: 5px 10px;   	
+font-family: ProximaNovaRegular;
+font-weight: 400;	
+font-size: 16px;	
+color: #909090 !important;	
+border: 1px solid #ddd;
+border-radius: 4px; 
+height:52px; }
+
+form#signup-form-landing-03 .inside-signup-form select { background:url(../images/landing03/arrow.png) #FFF;  background-position:95% center; background-repeat:no-repeat;        appearance:none;  -moz-appearance:none; -webkit-appearance: none;    overflow: hidden; height:52px;  }
+
+form#signup-form-landing-03 .inside-signup-form select option {	
+appearance:none;  -moz-appearance:none; -webkit-appearance: none; 
+}
+form#signup-form-landing-03 .inside-signup-form input[type="text"]:hover {    background: #f5f5f5;    color: #909090;}
+form#signup-form-landing-03 .inside-signup-form input[type="text"]:focus {    background: #f5f5f5;    color: #909090;        box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);}
+form#signup-form-landing-03 .inside-signup-form select {	margin-bottom:5px;}
+form#signup-form-landing-03 .inside-signup-form input[type=checkbox]{position: relative;	vertical-align: bottom;	bottom: 4px; margin-right:5px;}
+form#signup-form-landing-03 .inside-signup-form button{	/*width:100%;*/	margin-top:5px;}
+form#signup-form-landing-03 .inside-signup-form .form-group {	margin-bottom:5px;}
+/*form#signup-form-landing .inside-signup-form label {	margin-bottom:10px;}*/
+form#signup-form-landing-03 .inside-signup-form i.fa {	cursor:pointer;}
+
+form#signup-form-landing-03 .form-control::-moz-placeholder {color: #909090; opacity: 1;}
+form#signup-form-landing-03 .form-control:-ms-input-placeholder { color: #909090;}
+form#signup-form-landing-03 .form-control::-webkit-input-placeholder {  color: #909090;}
+/*End of open form */
+.btn-red-register {background-color:#d04446; border-radius:4px; color:#fff !important;}
+
+/************************** END OF LANDING PAGE 03 *****************************/
+
+
+/* Landing Page 04 signup form */
+form#signup-form-landing-04 .inside-signup-form label {visibility:hidden; height:20px; margin-bottom:0px;}
+form#signup-form-landing-04 .inside-signup-form {	/*background-color:#fff;*/	padding:0px;}
+form#signup-form-landing-04 .inside-signup-form h5#title {	font-weight: bold;}
+form#signup-form-landing-04 .inside-signup-form .pad_it {	padding-left:5px;	padding-right:5px;}
+form#signup-form-landing-04 .inside-signup-form input[type="text"], form#signup-form-landing-04 .inside-signup-form select {	
+padding: 5px 10px;
+height:40px;   	
+font-family: ProximaNovaRegular;
+font-weight: 400;	
+font-size: 16px;	
+color: #fff !important;	
+background: -moz-linear-gradient(top, rgba(255,255,255,0.45) 0%, rgba(255,255,255,0.45) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(255,255,255,0.45)), color-stop(100%,rgba(255,255,255,0.45))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(255,255,255,0.45) 0%,rgba(255,255,255,0.45) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#73ffffff', endColorstr='#73ffffff',GradientType=0 ); /* IE6-9 */	
+border: none !important;
+border-radius: 4px;}
+form#signup-form-landing-04 .inside-signup-form select { background:url(../images/landing-01/arrow.png) #97969a; color: #fff;  background-position:95% center; background-repeat:no-repeat;        appearance:none;  -moz-appearance:none; -webkit-appearance: none;    overflow: hidden; border:none;  }
+form#signup-form-landing-04 .inside-signup-form select option {	
+background: -moz-linear-gradient(top, rgba(44,43,51,0.91) 0%, rgba(44,43,51,0.91) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(44,43,51,0.91)), color-stop(100%,rgba(44,43,51,0.91))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* IE10+ */
+background: linear-gradient(to bottom, rgba(44,43,51,0.91) 0%,rgba(44,43,51,0.91) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e82c2b33', endColorstr='#e82c2b33',GradientType=0 ); /* IE6-9 */
+appearance:none;  -moz-appearance:none; -webkit-appearance: none; 
+}
+form#signup-form-landing-04 .inside-signup-form input[type="text"]:hover {    background: #414047;    color: #fff;}
+form#signup-form-landing-04 .inside-signup-form input[type="text"]:focus {    background: #414047;    color: #fff;        box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);}
+form#signup-form-landing-04 .inside-signup-form select {	margin-bottom:5px;}
+form#signup-form-landing-04 .inside-signup-form input[type=checkbox]{	position: relative;	vertical-align: bottom;	bottom: 4px; margin-right:5px;}
+form#signup-form-landing-04 .inside-signup-form button{	/*width:100%;*/	margin-top:5px;}
+form#signup-form-landing-04 .inside-signup-form .form-group {	margin-bottom:5px;}
+/*form#signup-form-landing .inside-signup-form label {	margin-bottom:10px;}*/
+form#signup-form-landing-04 .inside-signup-form i.fa {	cursor:pointer;}
+form#signup-form-landing-04 .form-control::-moz-placeholder {color: #FFF; opacity: 1;}
+form#signup-form-landing-04 .form-control:-ms-input-placeholder { color: #FFF;}
+form#signup-form-landing-04 .form-control::-webkit-input-placeholder {  color: #FFF;}
+/*End of open form */
+
+/* Landing Page 05 signup form */
+form#signup-form-landing-5 .inside-signup-form label {display:none; line-height:40px; margin-bottom:0px; color:#FFF; position:relative; top:10px;  }
+form#signup-form-landing-5 .form-control {margin-top:10px;}
+form#signup-form-landing-5 .inside-signup-form {	padding:0px;}
+form#signup-form-landing-5 .inside-signup-form h5#title {	font-weight: bold;}
+form#signup-form-landing-5 .inside-signup-form .pad_it {	padding-left:5px;	padding-right:5px;}
+form#signup-form-landing-5 .inside-signup-form input[type="text"], form#signup-form-landing-2 .inside-signup-form select {	
+padding: 10px 10px;   	
+font-family: Helvetica,Arial,sans-serif;
+font-weight: 400;	
+font-size: 16px;	
+color: #4d4d4d !important;	
+background-color:#fff;
+border: none !important;
+border-radius: 0px;
+height: 40px;}
+
+form#signup-form-landing-5 .inside-signup-form select { background:url(../images/landing05/arrow.png) #fff;  background-position:95% center; background-repeat:no-repeat;        appearance:none;  -moz-appearance:none; -webkit-appearance: none;    overflow: hidden; border-radius: 0px; padding: 10px 10px;  height:40px; }
+form#signup-form-landing-5 .inside-signup-form select option {	background-color:#fff;appearance:none;  -moz-appearance:none; -webkit-appearance: none; }
+form#signup-form-landing-5 .inside-signup-form input[type="text"]:hover {    background: #eee;    color: #4d4d4d;}
+form#signup-form-landing-5 .inside-signup-form input[type="text"]:focus {    background: #eee;    color: #4d4d4d;        box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.25);}
+form#signup-form-landing-5 .inside-signup-form select {	margin-bottom:5px;}
+form#signup-form-landing-5 .inside-signup-form input[type=checkbox]{	position: relative;	vertical-align: bottom;	bottom: 4px; margin-right:5px;}
+form#signup-form-landing-5 .inside-signup-form button{	/*width:100%;*/	margin-top:5px;}
+form#signup-form-landing-5 .inside-signup-form .form-group {	margin-bottom:5px;}
+/*form#signup-form-landing-2 .inside-signup-form label {	margin-bottom:10px;}*/
+form#signup-form-landing-5 .inside-signup-form i.fa {	cursor:pointer;}
+
+form#signup-form-landing-5 .form-control::-moz-placeholder {color: #4d4d4d; opacity: 1;}
+form#signup-form-landing-5 .form-control:-ms-input-placeholder { color: #4d4d4d;}
+form#signup-form-landing-5 .form-control::-webkit-input-placeholder {  color: #4d4d4d;}
+table.captcha tr td img {margin-top: 10px; height: 40px; width: auto;}
+table.captcha tr td input { /*margin-top: -10px !important;*/}
+/*End of open form */
+.noBorderRadius {border-radius: 0px;}
+
+/************************** END OF LANDING PAGE 05 *****************************/
+
+
+
+.l03-slide-margin{margin-top: 120px;}
+.l03-slide-buttons {margin-right:20px; border-radius:6px; font-size: 18px;}
+.l03-marginBottom30 {margin-bottom: 30px;}
+.l03-slide-positioning {margin-top:70px; padding-top:50px;}
+.moveTopSettings {position:relative; top:60px;}
+
+
+/* Crystal Ball */
+.btn-red-crystal {background-color: #dd474a; color: #fff;}
+.btn-crystal-white-red {border:1px solid #dd474a; background-color:transparent; color:#000;}
+.btn-crystal-white-red:focus {border:1px solid #dd474a; background-color:transparent; color:#000;}
+.btn-crystal-white-red:hover {border:1px solid #dd474a; background-color:#dd474a; color:#fff;}
+.toning {font-family: ProximaNovaRegular;}
+.bluePrediction {color: #1980c3;}
+.green {color: #81b537;}
+.red {color:#DB474A; }
+.crystal-noMarginTop {margin-top: 0px;}
+ul.crystal-menu li a:hover {color:#DB474A; background-color: white; }
+.crystal-positioning-content{padding-top:70px; padding-bottom:50px;}
+
+
+/* LMFX Landing */ 
+@media (max-width: 767px) {
+.lmfx-landing {background:url(../images/lmfxlanding/lndbg.jpg) no-repeat; background-attachment: fixed;    background-position: center;  /*background-size:cover;*/  }
+.lmfx-pattern {background-image:url(../images/lmfxlanding/lndpattern.png); background-repeat: repeat; min-height: 100vh;  background-attachment: fixed;    background-position: center; }
+.landing-circle {border-radius: 50%; border:1px solid rgba(255, 255, 255, .7); width: 160px; height: 160px; margin:0 auto; color:#fff; padding-top: 0px; clear: both; margin-bottom: 20px;}
+.landing-container {width:100%; margin: 8vh auto 0px auto;}
+.landing-hr {margin-top: 100px; margin-bottom: 100px; width: 70%; margin-left: 15%;}
+.landing-size35 {font-size: 20px; margin-top: 70px;}
+.landing-coming-soon {font-size: 18px; font-family: ProximaNovaLight; margin-top: 40px; color: #FFF;}
+.landing-copyright {font-size: 12px; font-family: ProximaNovaLight; color: #FFF; text-align: center; width: 100%; text-align: center;}
+.landing-circle-double-line{margin-top:60px;}
+}
+@media (min-width: 768px) {
+.lmfx-landing {background:url(../images/lmfxlanding/lndbg.jpg) no-repeat; background-size:cover;  }
+.lmfx-pattern {background-image:url(../images/lmfxlanding/lndpattern.png); background-repeat: repeat; min-height: 100vh;}
+.landing-circle {border-radius: 50%; border:1px solid rgba(255, 255, 255, .7); width: 220px; height: 220px; float: left; color:#fff; padding-top: 50px; font-size:35px;}
+.landing-container {width:740px; margin: 20vh auto 0px auto;}
+.landing-hr {margin-top: 100px; margin-bottom: 100px; width: 70%; margin-left: 15%;}
+.landing-size35 {font-size: 35px; margin-top: 40px;}
+.landing-coming-soon {font-size: 29px; font-family: ProximaNovaLight; margin-top: 40px; color: #FFF;}
+.landing-copyright {font-size: 12px; font-family: ProximaNovaLight; color: #FFF; text-align: center; width: 100%; text-align: center; }	
+.landing-middle-circle {margin-left: 40px; margin-right: 40px;}
+.landing-circle-double-line{margin-top:25px;}
+}
+@media (min-height: 768px) {
+.landing-copyright {font-size: 12px; font-family: ProximaNovaLight; color: #FFF; text-align: center;  position: absolute; bottom: 0px; width: 20vw; left: 40vw;}
+}
+

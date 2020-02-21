@@ -1,0 +1,31 @@
+.root {
+    flex-grow: 1;
+    text-align: center;
+  }
+
+.paper{
+    color: #fff
+  }
+
+  .title{
+    background-color: #e6e6e6fb;
+    color: #fff;
+    padding:2px;
+    margin-bottom:30px;
+    text-align: center;
+  }
+
+  .field{
+    width:100%
+  }
+
+  .content{
+    padding:16px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    /* color: #711fdb; */
+  }
+  /* Button{
+    padding: 50px;;
+  } */
